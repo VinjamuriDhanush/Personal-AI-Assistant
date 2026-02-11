@@ -8,7 +8,7 @@ import pyautogui
 
 # ------------------ CONFIG ------------------
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyD2KfhCwsKDdZOI8fZVNNcZK3dDZHKzPcY"
+
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # TTS Setup
